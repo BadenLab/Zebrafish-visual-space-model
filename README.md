@@ -62,10 +62,10 @@ we were able to evaluate that our recorded cells surveyed a field of view of app
 
 .
 
+.
+
 
 <img align="right" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/custom%20FoV%20at%20rest%20-%20Top%20view.png">
-
-<img align="right" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/custom%20FoV%20hunting%20-%20Top%20view.png">
 
 This customed view angle can then be entered in the script under the variable: "customed_angle". 
 This customed view angle is here displayed in red, overlaying the full FoV for comparison 
