@@ -46,7 +46,7 @@ vision [(Bianco, Kampff & Engert 2011)](https://github.com/BadenLab/Zebrafish-vi
 
 
 
-## Correlating a recording area into the visual space
+</br>## Correlating a recording area into the visual space
 
 <img align="left" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Immuno.png">
 
