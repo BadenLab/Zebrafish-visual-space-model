@@ -37,7 +37,7 @@ Its eyes at rest are at an angle of 18.5° relative to the body axis. This orient
 
 Here for example, we are interested about the field of view surveyed when the fish is engaged in a hunting mode. 
 Its eyes are then rotated to an angle of 35.5° forward, which makes the two monocular field of view overlap in front of the animal, giving him a forward facing binocullar 
-vision [(Bianco, Kampff & Engert 2011)](https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Paper%20references/Bianco%2C%20Kampff%20%26%20Engert%202011%20-%20Prey%20capture%20behavior%20evoked%20by%20simple%20visual%20stimuli%20in%20larval%20zebrafish.pdf). 
+vision [(Bianco, Kampff & Engert 2011)](https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Paper%20references/Bianco%2C%20Kampff%20%26%20Engert%202011%20-%20Prey%20capture%20behavior%20evoked%20by%20simple%20visual%20stimuli%20in%20larval%20zebrafish.pdf). </kbd>
 
 
 
