@@ -2,9 +2,10 @@
 <h1 align="center">Modelisation of the larval zebrafish field of view for illustration purposes
 <p align="center">
 <img src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Readme%20Cover.png" width="500"/>
+</p>
 
 
-You can jump directly to the section
+
 - [Visual space modelisation](#a-simple-parameterisable-tool-to-visualise-larval-zebrafish-field-of-view)
 
 
