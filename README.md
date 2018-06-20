@@ -23,7 +23,7 @@ Thus the idea to generate this modelisation came from the need to understand wha
 their position within the eye.
 
 
-<img align="right" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20at%20rest%20-%20Top%20view.png">
+<img align="right" width="150" height="150" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20at%20rest%20-%20Top%20view.png">
 
 
 The [OpenScad](http://www.openscad.org/) file proposed here, represents a larval zebrafish from 5dpf. The field of view is represented by a grey 163° (angular subtense of the functional retina at 72hpf) 
@@ -32,7 +32,7 @@ Its eyes at rest are at an angle of 18.5° relative to the body axis. This orient
 
 
 
-<img align="left" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20hunting%20-%20Top%20view.png">
+<img align="left" width="150" height="150" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20hunting%20-%20Top%20view.png">
 
 Here for example, we are interested about the field of view surveyed when the fish is engaged in a hunting mode. 
 Its eyes are then rotated to an angle of 35.5° forward, which makes the two monocular field of view overlap in front of the animal, giving him a forward facing binocullar 
