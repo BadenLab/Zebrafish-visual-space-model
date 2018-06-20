@@ -9,7 +9,8 @@
 
 
 - [Visual space modelisation](#a-simple-parameterisable-tool-to-visualise-larval-zebrafish-field-of-view)
-- [Estimation]
+- [Estimating a field of view](#correlating-a-recording-area-into-the-visual-space)
+- [A handy tool for protocol design]
 
 
 
@@ -22,8 +23,6 @@ to probe the synaptic activity of retinal neurons from our model: the zebrafish 
 Thus the idea to generate this modelisation came from the need to understand what part of the visual scenes the recorded neurons were surveying, based on 
 their position within the eye.
 
-<p>
-</p>
 
 <img align="right" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20at%20rest%20-%20Top%20view.png">
 
@@ -65,7 +64,9 @@ This customed view angle is here displayed in red, overlaying the full FoV for c
 
 
 
+## A handy tool for protocol design
 
+<img align="right" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Media1.mp4">
 
 
 
