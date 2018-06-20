@@ -10,7 +10,7 @@
 
 - [Visual space modelisation](#a-simple-parameterisable-tool-to-visualise-larval-zebrafish-field-of-view)
 
-
+-->
 
 ## A simple parameterisable tool to visualise larval zebrafish field of view 
 
