@@ -18,7 +18,7 @@ their position within the eye.
 
 <img align="right" width="250" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20at%20rest%20-%20Top%20view.png">
 
-The [OpenScad](http://www.openscad.org/) file proposed here, represents a larval zebrafish from 5dpf with a field of view estiated to 163° [(Easter and Nicola, 1996)](https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Paper%20references/Easter%20%26%20Nicola%201996%20-%20The%20development%20of%20vision%20in%20the%20zebrafish.pdf). Its eyes at rest are at an angle of 18.5° relative to the body axis.
+The [OpenScad](http://www.openscad.org/) file proposed here, represents a larval zebrafish from 5dpf. The field of view is represented by a grey 163° (angular subtense of the functional retina at 72hpf) cone projecting from the center of the eye into visual space [(Easter and Nicola, 1996)](https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Paper%20references/Easter%20%26%20Nicola%201996%20-%20The%20development%20of%20vision%20in%20the%20zebrafish.pdf). Its eyes at rest are at an angle of 18.5° relative to the body axis.
 
 
 <img align="left" width="250" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20hunting%20-%20Top%20view.png">
