@@ -16,7 +16,8 @@ Thus the idea to generate this modelisation came from the need to understand wha
 their position within the eye.
 
 
-<img align="right" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20at%20rest%20-%20Top%20view.png"/>
+<img align="right" width="250" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20at%20rest%20-%20Top%20view.png">
+
 The [OpenScad](http://www.openscad.org/) file proposed here, represents a larval zebrafish from 5dpf with a field of view estiated to 163° [(Easter and Nicola, 1996)](https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Paper%20references/Easter%20%26%20Nicola%201996%20-%20The%20development%20of%20vision%20in%20the%20zebrafish.pdf). Its eyes at rest are at an angle of 18.5° relative to the body axis.
 
 <p align="left">
