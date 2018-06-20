@@ -35,7 +35,7 @@ Its eyes at rest are at an angle of 18.5° relative to the body axis. This orient
 </p>
 
 
-<img align="left" width="150" height="150" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20hunting%20-%20Top%20view.png">
+<img align="left" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20hunting%20-%20Top%20view.png">
 
 Here for example, we are interested about the field of view surveyed when the fish is engaged in a hunting mode. 
 Its eyes are then rotated to an angle of 35.5° forward, which makes the two monocular field of view overlap in front of the animal, giving him a forward facing binocullar 
@@ -47,7 +47,7 @@ vision [(Bianco, Kampff & Engert 2011)](https://github.com/BadenLab/Zebrafish-vi
 
 ## Correlating a recording area into the visual space
 
-<img align="left" width="150" height="150" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Immuno.png">
+<img align="left" width="200" height="150" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Immuno.png">
 
 Using confocal imaging of the zebrafish eye in the frontal plane, we estimated the position of our funcitonal recording in the sagital plane (here, represented in red).
 By manually estimating the center of the lens and assesing the position of the photoreceptors to which our neurons are connected (here bipolar cells in the IPL),
