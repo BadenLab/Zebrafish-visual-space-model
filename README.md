@@ -1,12 +1,11 @@
-<img src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Logo.png" width="100"/>
+Modelisation of the larval zebrafish field of view for illustration purposes<p align="right"><img src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Logo.png" width="150"/>
 <p align="center">
 <img src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Readme%20Cover.png" width="500"/>
 
 
-<h1 align="center"> A simple parameterisable tool to visualise larval zebrafish field of view </h1> 
+<h2 align="center"> A simple parameterisable tool to visualise larval zebrafish field of view </h1> 
 
 
-Modelisation of the larval zebrafish field of view for illustration purposes
 
 At [Baden Lab](https://badenlab.org/), we study visual information processing in the retina. We use 2-photon imaging of genetically encoded biosensors 
 to probe the synaptic activity of retinal neurons from our model: the zebrafish *Danio rerio* in its larval form. 
