@@ -60,6 +60,11 @@ we were able to evaluate that our recorded cells surveyed a field of view of app
 This customed view angle can then be entered in the script under the variable: "customed_angle". 
 This customed view angle is here displayed in red, overlaying the full FoV for comparison 
 
+.
+
+.
+
+
 
 
 
