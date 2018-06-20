@@ -55,7 +55,7 @@ Using confocal imaging of the zebrafish eye in the frontal plane, we estimated t
 By manually estimating the center of the lens and assesing the position of the photoreceptors to which our neurons are connected (here bipolar cells in the IPL),
 we were able to evaluate that our recorded cells surveyed a field of view of approximatly 130°.
 
-<img align="right" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/custom%20FoV%20at%20rest%20-%20Top%20view.png">
+<img align="right" width="200" height="300" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/custom%20FoV%20at%20rest%20-%20Top%20view.png">
 
 This customed view angle can then be entered in the script under the variable: "customed_angle". 
 This customed view angle is here displayed in red, overlaying the full FoV for comparison 
