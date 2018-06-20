@@ -47,7 +47,7 @@ vision [(Bianco, Kampff & Engert 2011)](https://github.com/BadenLab/Zebrafish-vi
 
 ## Correlating a recording area into the visual space
 
-<img align="left" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Immuno.png">
+<img align="left" width="150" height="150" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Immuno.png">
 
 Using confocal imaging of the zebrafish eye in the frontal plane, we estimated the position of our funcitonal recording in the sagital plane (here, represented in red).
 By manually estimating the center of the lens and assesing the position of the photoreceptors to which our neurons are connected (here bipolar cells in the IPL),
