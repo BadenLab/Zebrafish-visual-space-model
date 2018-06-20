@@ -9,7 +9,7 @@
 
 
 
-## A simple parameterisable tool to visualise larval zebrafish field of view </h1> 
+## A simple parameterisable tool to visualise larval zebrafish field of view 
 
 
 At [Baden Lab](https://badenlab.org/), we study visual information processing in the retina. We use 2-photon imaging of genetically encoded biosensors 
