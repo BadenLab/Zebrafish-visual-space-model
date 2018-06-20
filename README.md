@@ -41,7 +41,7 @@ Here for example, we are interested about the field of view surveyed when the fi
 Its eyes are then rotated to an angle of 35.5° forward, which makes the two monocular field of view overlap in front of the animal, giving him a forward facing binocullar 
 vision [(Bianco, Kampff & Engert 2011)](https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Paper%20references/Bianco%2C%20Kampff%20%26%20Engert%202011%20-%20Prey%20capture%20behavior%20evoked%20by%20simple%20visual%20stimuli%20in%20larval%20zebrafish.pdf). </kbd>
 
-<br/>
+<br>
 ## Correlating a recording area into the visual space
 
 <img align="left" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Immuno.png">
@@ -49,7 +49,7 @@ vision [(Bianco, Kampff & Engert 2011)](https://github.com/BadenLab/Zebrafish-vi
 Using confocal imaging of the zebrafish eye in the frontal plane, we estimated the position of our funcitonal recording in the sagital plane (here, represented in red).
 By manually estimating the center of the lens and assesing the position of the photoreceptors to which our neurons are connected (here bipolar cells in the IPL),
 we were able to evaluate that our recorded cells surveyed a field of view of approximatly 130°.
-
+</br>
 
 
 
