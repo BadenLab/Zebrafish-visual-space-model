@@ -1,4 +1,5 @@
-Modelisation of the larval zebrafish field of view for illustration purposes<p align="right"><img src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Logo.png" width="150"/>
+<p align="right"><img src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Logo.png" width="150"/>
+<h1 align="center">Modelisation of the larval zebrafish field of view for illustration purposes
 <p align="center">
 <img src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Readme%20Cover.png" width="500"/>
 
