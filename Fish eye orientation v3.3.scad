@@ -21,7 +21,7 @@ Custom_FoV = 1; // Display customed field of view, defined by the variable "angl
 // // // // // // // // // // // // // // // // // // // // // // // // // // // //  
 
 
-Smoothness = 30; // high value required to export smooth jpg pictures
+Smoothness = 300; // high value required to export smooth jpg pictures
 
 angle_of_view = 163; // As defined by Easter & Nicolas 1996
 customed_angle = 100; // Customed field of view
@@ -29,8 +29,8 @@ customed_angle = 100; // Customed field of view
 Eye_Orientation = 18.5; // Orientation along the body axis: 18.5 at rest, 35.5 while hunting (binocular). Described by Bianco, Engert $ Kampff 2011
 Eye_Tilt = 0; // Vertical Orientation: >0 Eye looking upwards // <0 Eye looking downwards
 
-h_view_Full = 90; // View cone heigh
-h_view_customed = 100; // View cone heigh
+h_view_Full = 50; // View cone heigh
+h_view_customed = 60; // View cone heigh
 
 
   // // // // // // // // // // // // // // // // // // // // // // // // // // // // 

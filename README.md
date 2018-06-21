@@ -73,4 +73,4 @@ This customed view angle is here displayed in red, overlaying the full FoV for c
 
 ## A handy tool for protocol design
 
-<img align="right" width="500" height="300" src="https://media.giphy.com/media/2seb2mZIqqQHFRlKDp/giphy.gif">
+<img align="right" width="500" height="300" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Picture1.gif">
