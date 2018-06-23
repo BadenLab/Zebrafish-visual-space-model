@@ -62,4 +62,4 @@ The eye and its field of view can also be orientated along the vertical axis wit
 ## A handy tool for protocol design
 
 <img align="right" width="500" height="300" src="https://media.giphy.com/media/yN5kfr0DicbbFIrgcQ/giphy.gif">
-We also use this 3D model as an aid to design experiment protocols. Here for example, we assessed the portion of the visual field that cannot be stimulated with a side-mounted screen due to the hindrance of our microscope objective focused on the fish eye.
+We also use this 3D model as an aid to design experimental protocols. Here for example, we assessed the portion of the visual field that cannot be stimulated with a side-mounted screen due to the hindrance of our microscope objective focused on the fish eye.
