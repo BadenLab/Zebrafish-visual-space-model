@@ -8,14 +8,14 @@
 
 
 
-- [Visual space modelisation](#a-simple-parameterisable-tool-to-visualise-larval-zebrafish-field-of-view)
+- [Visual space modeling](#a-simple-parameterisable-tool-to-visualise-larval-zebrafish-field-of-view)
 - [Estimating a field of view](#correlating-a-recording-area-into-the-visual-space)
 - [A handy tool for protocol design](#A-handy-tool-for-protocol-design)
 
 
 
 
-## A simple parameterisable tool to visualise larval zebrafish field of view
+## A simple parametric tool to visualise larval zebrafish field of view
 
 
 At [Baden Lab](https://badenlab.org/), we study visual information processing in the retina. We use 2-photon imaging of genetically encoded biosensors to probe the synaptic activity of retinal neurons from our model: the zebrafish *Danio rerio* in its larval form.
@@ -51,7 +51,7 @@ By manually estimating the center of the lens and assesing the position of the p
 
 <img align="right" width="200" height="250" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/custom%20FoV%20at%20rest%20-%20Top%20view.png">
 
-This customed view angle, here displyaed in red, can then be entered in the script under the variable: "customed_angle".
+This custom view angle, here displyaed in red, can then be entered in the script under the variable: "customed_angle".
 
 The eye and its field of view can also be orientated along the vertical axis with the variable "Eye_Tilt".
 
