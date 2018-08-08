@@ -6,14 +6,13 @@
 </p>
 </h1>
 
-
+***
 
 - [Visual space modeling](#a-simple-parameterisable-tool-to-visualise-larval-zebrafish-field-of-view)
 - [Estimating a field of view](#correlating-a-recording-area-into-the-visual-space)
 - [A handy tool for protocol design](#A-handy-tool-for-protocol-design)
 
-
-
+***
 
 ## A simple parametric tool to visualise larval zebrafish field of view
 
@@ -29,18 +28,14 @@ Thus the idea to generate this 3D model came from the need to understand what pa
 The [OpenScad](http://www.openscad.org/) file proposed here, represents a larval zebrafish at 5dpf. The field of view is represented by a grey 163° (angular subtense of the functional retina at 72hpf) cone projecting from the center of the eye into visual space [(Easter and Nicola, 1996)](https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Paper%20references/Easter%20%26%20Nicola%201996%20-%20The%20development%20of%20vision%20in%20the%20zebrafish.pdf).
 Its eyes at rest are at an angle of 18.5° relative to the body axis. This orientation can be parametered on the openscad script through the variable "Eye_orientation".
 
-.
-
-.
+___
 
 <img align="left" width="200" height="200" src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Full%20FoV%20hunting%20-%20Top%20view.png"/>
 
 Here for example, we are interested about the field of view surveyed when the fish is engaged in a hunting mode.
 Its eyes are then rotated to an angle of 35.5° forward, which makes the two monocular field of view overlap in front of the animal, giving him a forward facing binocular vision [(Bianco, Kampff & Engert 2011)](https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Paper%20references/Bianco%2C%20Kampff%20%26%20Engert%202011%20-%20Prey%20capture%20behavior%20evoked%20by%20simple%20visual%20stimuli%20in%20larval%20zebrafish.pdf).
 
-.
-
-.
+___
 
 ## Correlating a recording area into the visual space
 
@@ -55,9 +50,7 @@ This custom view angle, here displyaed in red, can then be entered in the script
 
 The eye and its field of view can also be orientated along the vertical axis with the variable "Eye_Tilt".
 
-.
-
-.
+___
 
 ## A handy tool for protocol design
 
