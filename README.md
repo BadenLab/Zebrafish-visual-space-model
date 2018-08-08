@@ -50,7 +50,7 @@ This custom view angle, here displyaed in red, can then be entered in the script
 
 The eye and its field of view can also be orientated along the vertical axis with the variable "Eye_Tilt".
 
----
+_---_
 
 ## A handy tool for protocol design
 
